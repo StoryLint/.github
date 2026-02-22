@@ -26,4 +26,4 @@ StoryLint exists to make product requirements executable.
 
 ---
 
-Founded and maintained by Stephan Vanwoezik [@trapadulli](https://github.com/trapadulli).
+Built and maintained by Stephan Vanwoezik [@trapadulli](https://github.com/trapadulli).
