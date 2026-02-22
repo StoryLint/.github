@@ -4,6 +4,8 @@ Convert ambiguous product stories into deterministic, testable specifications.
 Messy narrative in. Executable behavior out.
 Make product requirements executable.
 
+---
+
 ## Repositories
 
 | Repository | Description |
