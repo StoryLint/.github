@@ -4,6 +4,12 @@ Convert ambiguous product stories into deterministic, testable specifications.
 Messy narrative in. Executable behavior out.
 Make product requirements executable.
 
+## Repositories
+
+| Repository | Description |
+|---|---|
+| [storyLint](https://github.com/StoryLint/storyLint) | A Chrome extention for linting product requirements. |
+
 ---
 
 ### What it is
