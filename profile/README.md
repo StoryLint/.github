@@ -1,9 +1,8 @@
 # StoryLint
 
-Linting for product requirements.
 Convert ambiguous product stories into deterministic, testable specifications.
 Messy narrative in. Executable behavior out.
-StoryLint exists to make product requirements executable.
+Make product requirements executable.
 
 ---
 
